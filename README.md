@@ -12,4 +12,4 @@ Feel free to use it.
 # Commands 
 - /quizbot - Enables the bot. 
 - /quzbot help - Open the help menu.
-- calculate: <equation> - Returns the solved equation (if it is possible/intepertable) 
+- calculate: (equation) - Returns the solved equation (if it is possible/intepertable) 
