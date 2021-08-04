@@ -1,4 +1,5 @@
-# hypickle-quiz-bot How to prove hypickle players haven't taken algebra yet. 
+# hypickle-quiz-bot 
+How to prove hypickle players haven't taken algebra yet. 
 
 # About This mod is a joke. 
 Feel free to use it. 
