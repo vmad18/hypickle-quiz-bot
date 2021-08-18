@@ -11,6 +11,6 @@ Feel free to use it.
 - Only works on Hypixel! (except for the calculator)
  
 # Commands 
-- /quizbot - Enables the bot. 
+- /quizbot - Enables/Disables the bot. 
 - /quzbot help - Open the help menu.
 - calculate: (equation) - Returns the solved equation (if it is possible/intepertable) 
